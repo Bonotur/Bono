@@ -1,20 +1,23 @@
 {
-  "name": "", // Bono
-  "version": "1.0.0", 
-  "description": "", // by Bonotur
+  "name": "bonotur",
+  "version": "1.0.1",
+  "description": "by bonotur",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "" // репозиторий (заполним чуть позже)
+    "url": "git+https://github.com/Bonotur/Bono.git"
   },
-  "keywords": [ // ключевые слова (необязательно)
-    "", 
-    "",
-    ""
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
   ],
-  "author": "", // автор (необязательно)
-  "license": "MIT"
+  "author": "bonotur",
+  "license": "MIT",
+  "dependencies": {
+    "lifechangeeee1": "^1.0.0"
+  }
 }
